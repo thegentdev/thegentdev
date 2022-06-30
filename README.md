@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-Passionate electronics engineer with a particular focus on Embedded Systems. You can find me in my Lab and contributing to Open Source here on Github.
+Passionate Electronics Engineer with a particular focus on Embedded Systems. You can find me in my Lab and contributing to Open Source here on Github.
 
 - ⚡ Currently working on all things STM32/NXP MCU
 - 🌱 Learning anything I can get my hands on!
